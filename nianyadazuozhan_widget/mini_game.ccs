@@ -1,0 +1,38 @@
+<Solution>
+  <PropertyGroup Name="mini_game" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="mini_game_res">
+          <Folder Name="ico">
+            <Image Name="boluo.png" />
+            <Image Name="lajiao.png" />
+            <Image Name="nangua.png" />
+            <Image Name="qiezi.png" />
+            <Image Name="xigua.png" />
+            <Image Name="yangcong.png" />
+            <Image Name="yumi.png" />
+          </Folder>
+          <Image Name="logo.png" />
+          <Image Name="nydzz_background.png" />
+          <Image Name="nydzz_choose_level1.png" />
+          <Image Name="nydzz_choose_level2.png" />
+          <Image Name="nydzz_choose_title.png" />
+          <Image Name="nydzz_hammer_part1.png" />
+          <Image Name="nydzz_hammer_part3.png" />
+          <Image Name="nydzz_hammer_part4.png" />
+          <Image Name="nydzz_hammer_shadow.png" />
+          <Image Name="nydzz_level_progress1.png" />
+          <Image Name="nydzz_level_progress2.png" />
+          <Image Name="nydzz_level_start.png" />
+          <Image Name="nydzz_level_table.png" />
+          <Image Name="nydzz_pause_button.png" />
+          <Image Name="nydzz_road2.png" />
+          <Image Name="nydzz_start_button.png" />
+          <Image Name="zhaji.png" />
+        </Folder>
+        <Project Name="MiniGameLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
