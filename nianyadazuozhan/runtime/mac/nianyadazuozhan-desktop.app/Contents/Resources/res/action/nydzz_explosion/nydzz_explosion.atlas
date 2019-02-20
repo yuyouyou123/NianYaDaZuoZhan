@@ -1,0 +1,104 @@
+
+nydzz_explosion.png
+size: 1187,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion_01
+  rotate: false
+  xy: 839, 463
+  size: 311, 255
+  orig: 311, 255
+  offset: 0, 0
+  index: -1
+explosion_02
+  rotate: false
+  xy: 839, 720
+  size: 347, 345
+  orig: 347, 345
+  offset: 0, 0
+  index: -1
+explosion_03
+  rotate: true
+  xy: 411, 227
+  size: 398, 365
+  orig: 398, 365
+  offset: 0, 0
+  index: -1
+explosion_04
+  rotate: true
+  xy: 0, 183
+  size: 438, 409
+  orig: 438, 409
+  offset: 0, 0
+  index: -1
+explosion_05
+  rotate: true
+  xy: 409, 627
+  size: 438, 428
+  orig: 438, 428
+  offset: 0, 0
+  index: -1
+explosion_06
+  rotate: true
+  xy: 0, 623
+  size: 442, 407
+  orig: 442, 407
+  offset: 0, 0
+  index: -1
+explosion_11
+  rotate: true
+  xy: 1068, 53
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+explosion_12
+  rotate: true
+  xy: 1068, 145
+  size: 125, 119
+  orig: 125, 119
+  offset: 0, 0
+  index: -1
+explosion_13
+  rotate: false
+  xy: 0, 13
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+explosion_14
+  rotate: false
+  xy: 998, 272
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+explosion_15
+  rotate: false
+  xy: 867, 32
+  size: 199, 207
+  orig: 199, 207
+  offset: 0, 0
+  index: -1
+explosion_16
+  rotate: true
+  xy: 778, 241
+  size: 220, 218
+  orig: 220, 218
+  offset: 0, 0
+  index: -1
+explosion_17
+  rotate: false
+  xy: 649, 3
+  size: 216, 222
+  orig: 216, 222
+  offset: 0, 0
+  index: -1
+explosion_18
+  rotate: true
+  xy: 411, 0
+  size: 225, 236
+  orig: 225, 236
+  offset: 0, 0
+  index: -1

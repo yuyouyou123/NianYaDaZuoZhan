@@ -1,0 +1,118 @@
+
+nydzz_firework.png
+size: 1686,1686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework_01
+  rotate: false
+  xy: 0, 1266
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_02
+  rotate: false
+  xy: 0, 844
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_03
+  rotate: false
+  xy: 422, 1266
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_04
+  rotate: false
+  xy: 0, 422
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_05
+  rotate: false
+  xy: 422, 844
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_06
+  rotate: false
+  xy: 844, 1266
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_07
+  rotate: false
+  xy: 0, 0
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_08
+  rotate: false
+  xy: 422, 422
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_09
+  rotate: false
+  xy: 844, 844
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_10
+  rotate: false
+  xy: 1266, 1266
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_11
+  rotate: false
+  xy: 422, 0
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_12
+  rotate: false
+  xy: 844, 422
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_13
+  rotate: false
+  xy: 1266, 844
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_14
+  rotate: false
+  xy: 844, 0
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_15
+  rotate: false
+  xy: 1266, 422
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+firework_16
+  rotate: false
+  xy: 1266, 0
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
